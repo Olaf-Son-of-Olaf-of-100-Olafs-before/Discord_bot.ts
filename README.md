@@ -5,8 +5,8 @@
 # Pablo
 DEA is a multi-purpose Discord Bot mainly known for it's infamous Cash System with multiple subtleties referencing to the show Narcos, which inspired the creation of this masterpiece. You can get all the information related to commands by viewing the link below. This bot is very much the just my verison of the dea bot made by BTD Blaze it him self. The dea bot has been shut down hense why i have made this.
 
-[Full documentation for MY bot](todo)
-[Full documentation for Johns bot](https://vim2meta.github.io/dea/)
+[Full documentation for MY bot,todo]
+[Full documentation for Johns bot,discontinued]
 
 [Add PABLO to your Server](https://discordapp.com/oauth2/authorize?client_id=453635384560058369&scope=bot&permissions=8)
 
