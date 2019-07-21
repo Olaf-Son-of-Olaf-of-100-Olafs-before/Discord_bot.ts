@@ -1,5 +1,5 @@
 <div align="center">
-<strong> this is discord bot i have made, so far nothing that cool, i fallowed a simple tutorial for making a discord TS bot, that works much like the now discontinued DEA bot so if you loved that you will love this
+<strong> This is discord bot i have made, so far nothing that cool, i fallowed a simple tutorial for making a discord TS bot, that works much like the now discontinued DEA bot so if you loved that you will love this
 </div>
 
 # Pablo
